@@ -16,6 +16,7 @@ public static String bye(String name) {
 }
 ```
 
+
 ## Multidimensional Arrays
 * ```array.length``` = length of rows
 * ```secondary[i].length``` = length of columns 
